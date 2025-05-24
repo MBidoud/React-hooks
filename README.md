@@ -1,4 +1,5 @@
- # TP React Hooks - Application de Blog
+
+# TP React Hooks - Application de Blog
 
 Ce TP a pour objectif de mettre en pratique l'utilisation des Hooks React (useState, useEffect, useCallback, useMemo) ainsi que la création de Hooks personnalisés à travers une application de blog simple.
 
@@ -326,6 +327,3 @@ Exemple : `https://dummyjson.com/posts/tag/history`
 - Pour implémenter le défilement infini, chargez plus de posts quand l'utilisateur atteint le bas de la page
 - Pour la recherche, utilisez le point d'entrée `/posts/search` avec le paramètre `q`
 - Vous pouvez combiner les paramètres de recherche avec les paramètres de pagination
-#   R E A C T - H o o k s - b l o g 
- 
- 
